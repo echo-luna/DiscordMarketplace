@@ -349,4 +349,4 @@ async def check(ctx, op):
             
 bot.run(token)
 
-#####https://discordapp.com/oauth2/authorize?&client_id=1095282314201792594&scope=bot&permissions=536947712
+#####https://discord.com/oauth2/authorize?client_id=1095282314201792594&scope=bot&permissions=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3F&client_id=1095282314201792594&scope=bot&permissions=536947712
